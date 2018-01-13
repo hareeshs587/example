@@ -1,0 +1,17 @@
+.image_box {
+	width:100px;
+	height:70px;
+}
+
+.card-title-red a{
+	color: red;
+}
+
+.app-container {
+	margin-top: 70px;
+}
+
+
+.portfolio-item{
+	margin-bottom: 20px;
+}
